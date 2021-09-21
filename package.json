@@ -33,7 +33,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "format": "prettier --write '**/*.tsx'",
+    "format": "prettier --write '**/*.tsx'"
   },
   "devDependencies": {
     "prettier": "^2.4.1",
