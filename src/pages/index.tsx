@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Link } from 'gatsby'
-import { css } from 'emotion'
+import { css } from '@emotion/css'
 
 import Layout from '../components/layout'
 
